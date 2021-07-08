@@ -16,7 +16,7 @@ Tensorflow 1.11.0<br/>
 
 
 ## Usage
-1. Download this repository via git or download the [zip file](https://github.com/zspCoder/DTLP/archive/refs/heads/main.zip) manually.
+1. Download this repository via git or download the [zip file](https://github.com/zspCoder/DTLP/archive/refs/heads/master.zip) manually.
 ```
 git clone https://github.com/zspCoder/DTLP
 ```
